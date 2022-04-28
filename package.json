@@ -1,0 +1,15 @@
+{
+  "name": "monogo-javascript-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiryl Anokhin",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
